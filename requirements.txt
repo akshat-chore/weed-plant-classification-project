@@ -3,7 +3,7 @@ torch
 torchvision
 pandas
 Pillow
-sklearn
+scikit-learn
 seaborn
 matplotlib
 numpy
